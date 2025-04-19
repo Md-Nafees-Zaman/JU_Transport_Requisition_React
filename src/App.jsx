@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar';
-import { HashRouter , Routes, Route} from 'react-router-dom';
+import { HashRouter as Router} from 'react-router-dom';
 // import Home from "./components/pages/Home";
 // import About from "./components/pages/About";
 // import Transport from "./components/pages/Transport";
